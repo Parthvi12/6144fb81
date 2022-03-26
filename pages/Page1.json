@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Test",
-    "slug": "test",
+    "name": "Page1",
+    "slug": "page1",
     "layouts": [
       {
         "viewMode": false,
@@ -134,7 +134,7 @@
           "MainContainer"
         ],
         "validOnPageLoadActions": true,
-        "id": "Test",
+        "id": "Page1",
         "deleted": false,
         "policies": [],
         "userPermissions": []
