@@ -8,7 +8,7 @@
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 776,
+          "rightColumn": 816,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
@@ -25,10 +25,40 @@
           "dynamicTriggerPathList": [],
           "dynamicBindingPathList": [],
           "leftColumn": 0,
-          "children": []
+          "children": [
+            {
+              "widgetName": "Button1",
+              "buttonColor": "#03B365",
+              "displayName": "Button",
+              "iconSVG": "/static/media/icon.cca02633.svg",
+              "topRow": 19,
+              "bottomRow": 23,
+              "parentRowSpace": 10,
+              "type": "BUTTON_WIDGET",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 12.5625,
+              "leftColumn": 17,
+              "text": "Submit",
+              "isDisabled": false,
+              "key": "lo2664yoos",
+              "rightColumn": 33,
+              "isDefaultClickDisabled": true,
+              "widgetId": "f1j3ynk8nx",
+              "isVisible": true,
+              "recaptchaType": "V3",
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "buttonVariant": "PRIMARY",
+              "placement": "CENTER"
+            }
+          ]
         },
         "layoutOnLoadActions": [],
         "widgetNames": [
+          "Button1",
           "MainContainer"
         ],
         "validOnPageLoadActions": true,
