@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Customer messaging",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Customer messaging_JSObject1",
+  "deleted": false,
+  "gitSyncId": "623eebcd6c86dd5be6fdd187_64116f470b9f407899fb9ad5"
+}
